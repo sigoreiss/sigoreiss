@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 - @sigoreiss on Instagram
 - @hy3na in Telegram
-- atmos344@gmail.com my Email
+- atmos344@gmail.com Email
 
 <!---
 sigoreiss/sigoreiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
